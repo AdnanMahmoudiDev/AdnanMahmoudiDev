@@ -1,39 +1,41 @@
+```markdown
 # Adnan Mahmoudi
+`Backend Software Engineer` • `PHP / Laravel`
 
-**Backend Developer | PHP & Laravel**
-
-Backend developer focused on architecting and delivering robust, secure, and maintainable web applications using **PHP** and **Laravel**. Committed to clean architecture principles, efficient database design, secure API development, and production reliability.
-
----
-
-### Technical Competencies
-
-* **Languages:** PHP (8.x), JavaScript (ES6+)
-* **Backend Architecture:** Laravel Framework, RESTful API Design, Authentication & Role-Based Access Control (RBAC), Middleware, Queues & Events
-* **Databases & ORM:** MySQL, Schema Optimization, Indexing, Eloquent ORM
-* **Frontend Integration:** Blade, HTML5, CSS3, Tailwind CSS
-* **Tooling & Infrastructure:** Git, Composer, Linux (Ubuntu), Docker, Nginx / Reverse Proxies
+I design and maintain production-grade backend systems where data integrity, execution predictability, and application security are non-negotiable. Focused on clean separation of concerns, defensive programming, and low-latency database interactions.
 
 ---
 
-### Professional Focus
+### Core Engineering Focus
 
-* Architecting production-grade, modular applications using modern Laravel ecosystem practices.
-* Designing resilient transaction, payment gateway, and subscription workflows.
-* Backend security hardening, query performance profiling, and system-level backups.
-* Integrating third-party APIs and automated services into backend architectures.
+```text
+Architecture   :: Clean / Modular Architecture, Service-Repository Pattern, RBAC
+Data Layer     :: Relational Modeling, Indexing Strategies, Transactional Integrity
+Infrastructure :: Linux (Ubuntu), Containerization (Docker), Nginx / Reverse Proxies
+APIs           :: Strict REST Contracts, Token Auth, Automated Request Validation
+```
 
 ---
 
-### Key Competencies & Engineering Scope
+### Technical Surface
 
-* **Enterprise Admin Systems:** Developing secure, data-driven administrative dashboards with complex permission layers, audit logs, and automated database backup routines.
-* **Transaction & Licensing Engines:** Implementing end-to-end checkout lifecycles, discount algorithms, and license validation mechanisms.
-* **Robust API Design:** Engineering standardized RESTful services with strict request validation, consistent resource responses, and token-based authentication.
+* **Core:** PHP 8.x, Strict Types, OOP, Functional Paradigms
+* **Framework Ecosystem:** Laravel (Queues, Event-Driven Architecture, Custom Service Providers)
+* **Databases:** MySQL (Query Profiling, Index Tuning, Foreign Key Constraints, Eloquent ORM)
+* **Ops & Deployment:** Git, Docker, Composer, Bash / Linux Server Administration
+* **Interface & Presentation:** Blade, Tailwind CSS, JavaScript (ES6+)
+
+---
+
+### Production Track Record & Problem Spaces
+
+* **Resilient Admin Architectures:** Built enterprise-level dashboards handling multi-role access control, granular audit logging, and fault-tolerant automated database backup routines.
+* **Transactional Reliability:** Engineered custom licensing verification pipelines, complex discount calculations, and payment gateway lifecycles under strict transactional boundaries (`DB::transaction`).
+* **Security & Hardening:** Enforcing parameter sanitization, rate-limiting, secure headers, and CSRF/XSS mitigations across stateful and stateless surfaces.
 
 ---
 
 ### Contact
 
 * **Email:** [adnan.mahmoudi.dev@gmail.com](mailto:adnan.mahmoudi.dev@gmail.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+```
