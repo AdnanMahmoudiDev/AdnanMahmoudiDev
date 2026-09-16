@@ -2,19 +2,19 @@
 
 **Backend Developer | PHP & Laravel**
 
-Backend developer focused on building web applications and backend systems with PHP and Laravel.
+I build web applications and backend systems using PHP and Laravel, with a focus on clean architecture, maintainable code, database design, and reliable APIs.
 
-I enjoy designing practical solutions, working with databases and APIs, and writing clean, maintainable code. I'm continuously improving my backend development skills through real-world projects and hands-on development.
+My goal is to continuously improve my engineering skills by building real-world applications and working with modern backend technologies.
 
 ---
 
 ## About Me
 
-* Backend Developer focused on **PHP & Laravel**
-* Experienced with **Laravel 11**
-* Building database-driven web applications
-* Working with RESTful APIs and authentication systems
+* Backend developer focused on **PHP & Laravel**
+* Building web applications with **Laravel 11**
 * Interested in backend architecture and clean code
+* Working with relational databases and Eloquent ORM
+* Building RESTful APIs and authentication systems
 * Interested in web application security and performance
 * Currently expanding my knowledge of Artificial Intelligence
 
@@ -26,6 +26,7 @@ I enjoy designing practical solutions, working with databases and APIs, and writ
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-000000?style=flat-square)
 
 ### Database
 
@@ -51,17 +52,17 @@ I enjoy designing practical solutions, working with databases and APIs, and writ
 
 ## What I Build
 
-I focus on building complete web applications and backend systems with practical functionality.
+I enjoy building complete web applications and backend systems that solve practical problems.
 
-My projects include:
+My projects typically involve:
 
-* Authentication and authorization
+* Authentication & authorization
 * RESTful APIs
 * Administrative dashboards
-* E-commerce functionality
-* Subscription systems
+* E-commerce systems
+* Subscription management
 * Payment gateway integrations
-* Pricing and discount management
+* Pricing and discount systems
 * User management
 * Database-driven applications
 
@@ -69,62 +70,60 @@ My projects include:
 
 ## Engineering Interests
 
-**Backend Architecture**
+### Backend Architecture
 
 Designing applications with a clear structure and maintainable code that can evolve as the project grows.
 
-**Database Design**
+### Database Design
 
-Working with relational databases, data modeling, relationships, and efficient queries.
+Working with relational databases, data modeling, relationships, and query optimization.
 
-**Security**
+### Security
 
 Learning and applying secure practices around authentication, authorization, validation, sessions, and data handling.
 
-**Performance**
+### Performance
 
-Improving application performance through efficient queries, caching, optimized application logic, and appropriate architecture.
+Improving application performance through efficient queries, caching, optimized application logic, and better architecture.
 
-**API Development**
+### APIs
 
-Designing and consuming structured and reliable APIs for modern web applications.
+Designing and consuming APIs that are reliable, structured, and easy to maintain.
 
 ---
 
 ## Currently Learning
 
-```text
-Advanced Laravel
-Backend Architecture
-Web Application Security
-Database Optimization
-API Design
-Linux & Server Administration
-Artificial Intelligence
-```
+* Advanced Laravel
+* Backend Architecture
+* Web Application Security
+* Database Optimization
+* API Design
+* Linux & Server Administration
+* Artificial Intelligence
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMahmoudiDev&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMahmoudiDev&layout=compact&hide_border=true" height="170" />
 </p>
 
 ---
 
 ## Featured Projects
 
-I use GitHub to document my projects, experiment with new technologies, and turn ideas into working software.
+I use GitHub to document my projects, experiment with new technologies, and apply what I learn to practical applications.
 
-My current work focuses primarily on Laravel-based applications and real-world backend functionality.
+My current projects focus primarily on Laravel-based systems and real-world backend functionality.
 
 ---
 
 ## Contact
 
-[Email](mailto:adnan.mahmoudi.dev@gmail.com)
+**Email:** [adnan.mahmoudi.dev@gmail.com](mailto:adnan.mahmoudi.dev@gmail.com)
 
 ---
 
