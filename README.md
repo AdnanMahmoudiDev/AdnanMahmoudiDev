@@ -1,21 +1,22 @@
 # Adnan Mahmoudi
 
-### Backend Developer
+**Backend Developer | PHP & Laravel**
 
-I build backend systems and web applications with **PHP and Laravel**, with a focus on writing clean, maintainable, and reliable code.
+I build web applications and backend systems using PHP and Laravel, with a focus on clean architecture, maintainable code, database design, and reliable APIs.
 
-My main interests are backend architecture, database design, REST APIs, authentication, application security, and building real-world web applications.
+My goal is to continuously improve my engineering skills by building real-world applications and working with modern backend technologies.
 
 ---
 
-## About
+## About Me
 
-* Backend Developer focused on **PHP & Laravel**
-* Building and maintaining **Laravel-based web applications**
-* Interested in **software architecture, clean code, and scalable systems**
-* Working with relational databases and API-driven applications
-* Continuously improving my backend development and system design skills
-* Currently expanding my knowledge of **Artificial Intelligence and modern backend technologies**
+* Backend developer focused on **PHP & Laravel**
+* Building web applications with **Laravel 11**
+* Interested in backend architecture and clean code
+* Working with relational databases and Eloquent ORM
+* Building RESTful APIs and authentication systems
+* Interested in web application security and performance
+* Currently expanding my knowledge of Artificial Intelligence
 
 ---
 
@@ -51,84 +52,72 @@ My main interests are backend architecture, database design, REST APIs, authenti
 
 ## What I Build
 
-I enjoy turning ideas into complete, functional web applications.
+I enjoy building complete web applications and backend systems that solve practical problems.
 
-Some of the systems I work with include:
+My projects typically involve:
 
-* Authentication and authorization systems
+* Authentication & authorization
 * RESTful APIs
 * Administrative dashboards
-* E-commerce functionality
-* Subscription-based systems
+* E-commerce systems
+* Subscription management
 * Payment gateway integrations
-* Discount and pricing systems
+* Pricing and discount systems
+* User management
 * Database-driven applications
-* User management systems
 
 ---
 
 ## Engineering Interests
 
-I'm particularly interested in:
+### Backend Architecture
 
-**Backend Architecture**
-Designing applications that remain understandable and maintainable as they grow.
+Designing applications with a clear structure and maintainable code that can evolve as the project grows.
 
-**Database Design**
-Building efficient relational data models and writing reliable database-driven applications.
+### Database Design
 
-**Security**
-Understanding common web vulnerabilities and implementing secure authentication, authorization, validation, and data handling.
+Working with relational databases, data modeling, relationships, and query optimization.
 
-**Performance**
-Improving application performance through better queries, caching, efficient application logic, and appropriate architecture.
+### Security
 
-**APIs**
-Designing and consuming reliable APIs for modern web applications.
+Learning and applying secure practices around authentication, authorization, validation, sessions, and data handling.
+
+### Performance
+
+Improving application performance through efficient queries, caching, optimized application logic, and better architecture.
+
+### APIs
+
+Designing and consuming APIs that are reliable, structured, and easy to maintain.
 
 ---
 
 ## Currently Learning
 
-```text
-Advanced Laravel
-Backend Architecture
-Web Application Security
-Database Optimization
-API Design
-Linux & Server Administration
-Artificial Intelligence
-```
+* Advanced Laravel
+* Backend Architecture
+* Web Application Security
+* Database Optimization
+* API Design
+* Linux & Server Administration
+* Artificial Intelligence
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AdnanMahmoudiDev&show_icons=true&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMahmoudiDev&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanMahmoudiDev&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMahmoudiDev&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMahmoudiDev&layout=compact&hide_border=true" height="170" />
 </p>
 
 ---
 
-## Featured Work
+## Featured Projects
 
-I use GitHub to document projects, experiment with new technologies, and turn concepts into working software.
+I use GitHub to document my projects, experiment with new technologies, and apply what I learn to practical applications.
 
-For me, every project is an opportunity to improve how I design, build, test, and maintain software.
+My current projects focus primarily on Laravel-based systems and real-world backend functionality.
 
 ---
 
@@ -138,4 +127,6 @@ For me, every project is an opportunity to improve how I design, build, test, an
 
 ---
 
-### Building. Learning. Improving.
+<p align="center">
+  <i>Building software with purpose.</i>
+</p>
