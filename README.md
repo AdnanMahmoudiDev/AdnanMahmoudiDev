@@ -4,19 +4,19 @@
 
 Backend developer focused on building web applications and backend systems with PHP and Laravel.
 
-I enjoy designing practical solutions, working with databases and APIs, and writing clean, maintainable code. My focus is on continuously improving my engineering skills through real-world projects and hands-on development.
+I enjoy designing practical solutions, working with databases and APIs, and writing clean, maintainable code. I'm continuously improving my backend development skills through real-world projects and hands-on development.
 
 ---
 
 ## About Me
 
 * Backend Developer focused on **PHP & Laravel**
-* Building web applications with **Laravel 11**
+* Experienced with **Laravel 11**
+* Building database-driven web applications
+* Working with RESTful APIs and authentication systems
 * Interested in backend architecture and clean code
-* Working with relational databases and Eloquent ORM
-* Building RESTful APIs and authentication systems
 * Interested in web application security and performance
-* Exploring modern technologies and Artificial Intelligence
+* Currently expanding my knowledge of Artificial Intelligence
 
 ---
 
@@ -59,9 +59,9 @@ My projects include:
 * RESTful APIs
 * Administrative dashboards
 * E-commerce functionality
-* Subscription management
+* Subscription systems
 * Payment gateway integrations
-* Pricing and discount systems
+* Pricing and discount management
 * User management
 * Database-driven applications
 
@@ -69,23 +69,23 @@ My projects include:
 
 ## Engineering Interests
 
-### Backend Architecture
+**Backend Architecture**
 
 Designing applications with a clear structure and maintainable code that can evolve as the project grows.
 
-### Database Design
+**Database Design**
 
 Working with relational databases, data modeling, relationships, and efficient queries.
 
-### Security
+**Security**
 
 Learning and applying secure practices around authentication, authorization, validation, sessions, and data handling.
 
-### Performance
+**Performance**
 
-Improving application performance through efficient queries, caching, optimized application logic, and better architecture.
+Improving application performance through efficient queries, caching, optimized application logic, and appropriate architecture.
 
-### API Development
+**API Development**
 
 Designing and consuming structured and reliable APIs for modern web applications.
 
@@ -93,13 +93,15 @@ Designing and consuming structured and reliable APIs for modern web applications
 
 ## Currently Learning
 
-* Advanced Laravel
-* Backend Architecture
-* Web Application Security
-* Database Optimization
-* API Design
-* Linux & Server Administration
-* Artificial Intelligence
+```text
+Advanced Laravel
+Backend Architecture
+Web Application Security
+Database Optimization
+API Design
+Linux & Server Administration
+Artificial Intelligence
+```
 
 ---
 
