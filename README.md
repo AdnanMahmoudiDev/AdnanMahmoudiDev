@@ -2,21 +2,21 @@
 
 **Backend Developer | PHP & Laravel**
 
-I build web applications and backend systems using PHP and Laravel, with a focus on clean architecture, maintainable code, database design, and reliable APIs.
+Backend developer focused on building web applications and backend systems with PHP and Laravel.
 
-My goal is to continuously improve my engineering skills by building real-world applications and working with modern backend technologies.
+I enjoy designing practical solutions, working with databases and APIs, and writing clean, maintainable code. My focus is on continuously improving my engineering skills through real-world projects and hands-on development.
 
 ---
 
 ## About Me
 
-* Backend developer focused on **PHP & Laravel**
+* Backend Developer focused on **PHP & Laravel**
 * Building web applications with **Laravel 11**
 * Interested in backend architecture and clean code
 * Working with relational databases and Eloquent ORM
 * Building RESTful APIs and authentication systems
 * Interested in web application security and performance
-* Currently expanding my knowledge of Artificial Intelligence
+* Exploring modern technologies and Artificial Intelligence
 
 ---
 
@@ -26,7 +26,6 @@ My goal is to continuously improve my engineering skills by building real-world 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-000000?style=flat-square)
 
 ### Database
 
@@ -52,14 +51,14 @@ My goal is to continuously improve my engineering skills by building real-world 
 
 ## What I Build
 
-I enjoy building complete web applications and backend systems that solve practical problems.
+I focus on building complete web applications and backend systems with practical functionality.
 
-My projects typically involve:
+My projects include:
 
-* Authentication & authorization
+* Authentication and authorization
 * RESTful APIs
 * Administrative dashboards
-* E-commerce systems
+* E-commerce functionality
 * Subscription management
 * Payment gateway integrations
 * Pricing and discount systems
@@ -76,7 +75,7 @@ Designing applications with a clear structure and maintainable code that can evo
 
 ### Database Design
 
-Working with relational databases, data modeling, relationships, and query optimization.
+Working with relational databases, data modeling, relationships, and efficient queries.
 
 ### Security
 
@@ -86,9 +85,9 @@ Learning and applying secure practices around authentication, authorization, val
 
 Improving application performance through efficient queries, caching, optimized application logic, and better architecture.
 
-### APIs
+### API Development
 
-Designing and consuming APIs that are reliable, structured, and easy to maintain.
+Designing and consuming structured and reliable APIs for modern web applications.
 
 ---
 
@@ -107,23 +106,23 @@ Designing and consuming APIs that are reliable, structured, and easy to maintain
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMahmoudiDev&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMahmoudiDev&layout=compact&hide_border=true" height="170" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 ---
 
 ## Featured Projects
 
-I use GitHub to document my projects, experiment with new technologies, and apply what I learn to practical applications.
+I use GitHub to document my projects, experiment with new technologies, and turn ideas into working software.
 
-My current projects focus primarily on Laravel-based systems and real-world backend functionality.
+My current work focuses primarily on Laravel-based applications and real-world backend functionality.
 
 ---
 
 ## Contact
 
-**Email:** [adnan.mahmoudi.dev@gmail.com](mailto:adnan.mahmoudi.dev@gmail.com)
+[Email](mailto:adnan.mahmoudi.dev@gmail.com)
 
 ---
 
