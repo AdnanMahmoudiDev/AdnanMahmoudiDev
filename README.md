@@ -102,22 +102,7 @@ Artificial Intelligence
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMahmoudiDev&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMahmoudiDev&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanMahmoudiDev&hide_border=true" />
-</p>
-
----
 
 ## Featured Work
 
